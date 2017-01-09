@@ -81,7 +81,7 @@ En la parte superior hay un campo de texto para filtrar los partidos existentes 
 
 ### Añadir un partido
 
-Antes de poder ubicar un partido como participante dentro de unas elecciones, es necesario que esté registrado en la aplicación. Para ello, dentro de la pestaña `Parties` pulse en el botón inferior derecho.
+Antes de poder ubicar un partido como participante dentro de unas elecciones, es necesario que esté registrado en la aplicación. Para ello, dentro de la pestaña `Parties` pulse en el botón inferior derecho etiquetado con un `+`.
 
 ![create_parties](image/create_parties.png)
 
@@ -97,5 +97,24 @@ También se encuentra a la vista la abreviatura y el color del partido. Usted pu
 
 # Pestaña Regions
 
+En la pestaña `Regions` ha de añadir cada una de las circunscripciones donde se votó en una o más elecciones. El aspecto inicial de la aplicación es el siguiente:
 
+![main_regions](image/main_regions.png)
 
+### Añadir una circunscripción
+
+Es necesario que las circunscripciones sean previamente añadidas para poder ser utilizadas en las elecciones. Para ello, pulse el botón inferior derecho con la etiqueta de `+`.
+
+A continuación se le abrirá una ventana donde únicamente ha de introducir el nombre de la circunscripción.
+
+![create_regions](image/create_regions.png)
+
+Pulse el botón amarillo redondo de la esquina superior derecha para almacenar la circunscripción en la plataforma.
+
+### Visualizar información de una circunscripción
+
+Pulsando sobre el botón `View` en una circunscripción puede ver las elecciones en las que dicha circunscripción estuvo involucrada, como puede ver en la siguiente imagen.
+
+![view_regions](image/view_regions.png)
+
+Si pulsa sobre el botón `View` en cualquier elección, será redirigido a la información de dicha elección. Asimismo puede editar el nombre de la circunscripción pulsando sobre el botón `lápiz` situado en la esquina superior derecha.
