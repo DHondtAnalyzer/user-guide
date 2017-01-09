@@ -31,9 +31,9 @@ Desde la pestaña `Regions` el usuario puede realizar las siguientes acciones:
 
 # Pestaña Elections
 
-Tras pulsar la pestaña Elections en el menú superior, se mostrará la siguiente pantalla:
+Tras pulsar sobre la opción `Elections` en el menú superior, se mostrará la siguiente pantalla:
 
-![home](image/main_elections.png)
+![home_elections](image/main_elections.png)
 
 ### Buscar una elección
 
@@ -47,28 +47,55 @@ Presione sobre el botón con el signo `+` situado en la esquina inferior derecha
 
 ![create_election](image/create_elections.png)
 
-Puede cambiar el nombre con el que los usuarios pueden buscar las elecciones dentro de la aplicación, la fecha y el tipo de la elección en el apartado superior.
+En la esquina superior derecha de la ventana hay dos botones. El botón con forma de cuadrado le permite ampliar la ventana para que ocupe toda la pantalla, mientras que con la cruz cerrará la ventana.
 
-En el caso de elecciones generales, puede añadir circunscripciones desde la pestaña `Districts`, que es la que se abre por defecto. Para ello sitúese sobre el cajón de texto `Add District` e introduzca el nombre de la región, que previamente fue incluida en la plataforma, como se muestra en la siguiente imagen:
+Puede cambiar el nombre con el que los usuarios verán las elecciones que está creando, así como la fecha y el tipo de la elección en el apartado superior.
+
+Añada circunscripciones desde la pestaña `Districts`, que es la que se abre por defecto. Para ello sitúese sobre el cajón de texto `Add District` e introduzca el nombre de la región, que previamente fue incluida en la plataforma, como se muestra en la siguiente imagen:
 
 ![add_region](image/add_region_elections.png)
 
 Por último, para cada circunscricpción especifique el número de escaños que se repartirán y el censo de dicha circunscripción, para terminar pulsando el botón `Save` que confirma que los datos son correctos.
 
-![edit_seats](image/edit_seats_election.png)
+![edit_seats](image/edit_seats_elections.png)
+
+Para incluir los partidos que participan en la elección, pulse sobre la pestaña `Parties`. En dicha pestaña puede modificar y ver el listado de  partidos políticos que participaron en las elecciones.
+
+![add_region](image/add_parties_elections.png)
+
+### Introducir información del escrutinio
+
+TO DO
+
+### Modificar las condiciones de reparto
+
+Los escaños se reparten según la Ley D'Hondt especificada en la Ley electoral actual. 
+
+# Pestaña Parties
+
+Tras pulsar la opción `Parties` en el menú superior, será dirigido a la siguiente pantalla:
+
+![home_parties](image/main_parties.png)
+
+En la parte superior hay un campo de texto para filtrar los partidos existentes por nombre. El conjunto de partidos registrados en la aplicación está en la parte inferior de la pantalla.
+
+### Añadir un partido
+
+Antes de poder ubicar un partido como participante dentro de unas elecciones, es necesario que esté registrado en la aplicación. Para ello, dentro de la pestaña `Parties` pulse en el botón inferior derecho.
+
+![create_parties](image/create_parties.png)
+
+La información que ha de introducir es el nombre del partido, su abreviatura y el color del partido. Una vez haya terminado, pulse el botón amarillo con el tick para guardar el partido.
+
+### Visualizar información de un partido
+
+Pulsando sobre el botón `View` en cualquiera de los partidos de la pestaña `Parties` podrá ver las elecciones en las que participó el partido.
+
+![view_parties](image/view_parties.png)
+
+También se encuentra a la vista la abreviatura y el color del partido. Usted puede editar esta información presionando el botón amarillo de la esquina superior derecha con el icono del lápiz.
+
+# Pestaña Regions
 
 
-
-
-### Añadir información sobre unas nuevas elecciones
-
-En la parte superior de la pantalla, pulse sobre la pestaña Elecciones, para dirigirse al apartado de elecciones. Una vez allí, pulse sobre el botón con símbolo de + para añadir la información de una nueva elección.
-
-Para crear una nueva elección será necesaria la introducción de la siguiente información:
-
-- Nombre de las elecciones
-- Fecha en la que tuvo o tendrán lugar.
-- Tipo de elección, actualmente pueden ser nacionales, autonómicas, regionales o europeas.
-
-## Añadir un nuevo partido político en la plataforma.
 
