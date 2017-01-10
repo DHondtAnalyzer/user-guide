@@ -1,8 +1,10 @@
-# ATENCION
-Capturas de pantalla extraídas con firefox (herramientas de desarrollador con una resolucion 850x480 que otorga una resolucion de aspecto 16:9)
+[//]: # (Capturas de pantalla extraídas con firefox : herramientas de desarrollador con una resolucion 850x480 que otorga una resolucion de aspecto 16:9)
+
 # Manual de usuario
 
 Este manual contiene una guía de uso de la aplicación D'Hont Analyzer.
+
+[TOC]
 
 # Pantalla de inicio de la aplicación
 
@@ -65,8 +67,13 @@ Para incluir los partidos que participan en la elección, pulse sobre la pestañ
 
 ### Introducir información del escrutinio
 
-TO DO
+Cuando tenga una elección seleccionada, pulse en el botón `Table Results` para dirigirse a la pestaña de visualización del escrutinio:
 
+![view_votes](image/view_votes_elections.png)
+
+Para modificar alguno de los datos, pulse sobre la celda que quiera modificar con el ratón, y a continuación dispondrá de un campo de texto para introducir el dato del voto.
+
+![edit_votes](image/edit_votes_elections.png)
 ### Modificar las condiciones de reparto
 
 Los escaños se reparten según la Ley D'Hondt especificada en la Ley electoral actual. 
