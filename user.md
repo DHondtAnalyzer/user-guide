@@ -1,10 +1,6 @@
-[//]: # (Capturas de pantalla extraídas con firefox : herramientas de desarrollador con una resolucion 850x480 que otorga una resolucion de aspecto 16:9)
-
 # Manual de usuario
 
 Este manual contiene una guía de uso de la aplicación D'Hont Analyzer.
-
-[TOC]
 
 # Pantalla de inicio de la aplicación
 
@@ -18,18 +14,18 @@ Tras pulsar, se mostrará la aplicación, con el menú superior para navegar ent
 
 Desde la pestaña `Elections` el usuario puede realizar las siguientes acciones:
 
-- Añadir los datos de unas elecciones en la aplicación.
-- Visualizar la información de unas elecciones ya existentes en la aplicación.
+* Añadir los datos de unas elecciones en la aplicación.
+* Visualizar la información de unas elecciones ya existentes en la aplicación.
 
 Desde la pestaña `Parties` el usuario puede realizar las siguientes acciones:
 
-- Añadir los datos de un nuevo partido dentro de la aplicación.
-- Visualizar la información de los partidos registrados en la aplicación.
+* Añadir los datos de un nuevo partido dentro de la aplicación.
+* Visualizar la información de los partidos registrados en la aplicación.
 
 Desde la pestaña `Regions` el usuario puede realizar las siguientes acciones:
 
-- Añadir los datos de una nueva región en la aplicación.
-- Visualizar la información de las regiones de la aplicación.
+* Añadir los datos de una nueva región en la aplicación.
+* Visualizar la información de las regiones de la aplicación.
 
 # Pestaña Elections
 
@@ -74,9 +70,10 @@ Cuando tenga una elección seleccionada, pulse en el botón `Table Results` para
 Para modificar alguno de los datos, pulse sobre la celda que quiera modificar con el ratón, y a continuación dispondrá de un campo de texto para introducir el dato del voto.
 
 ![edit_votes](image/edit_votes_elections.png)
+
 ### Modificar las condiciones de reparto
 
-Los escaños se reparten según la Ley D'Hondt especificada en la Ley electoral actual. 
+Los escaños se reparten según la Ley D'Hondt especificada en la Ley electoral actual.
 
 # Pestaña Parties
 
@@ -125,3 +122,4 @@ Pulsando sobre el botón `View` en una circunscripción puede ver las elecciones
 ![view_regions](image/view_regions.png)
 
 Si pulsa sobre el botón `View` en cualquier elección, será redirigido a la información de dicha elección. Asimismo puede editar el nombre de la circunscripción pulsando sobre el botón `lápiz` situado en la esquina superior derecha.
+
